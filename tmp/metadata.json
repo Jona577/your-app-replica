@@ -1,0 +1,7 @@
+{
+  "name": "Produtivity",
+  "description": "Uma suíte completa de produtividade com cronômetros de estudo, gerenciamento de tarefas, planejamento de rotina, rastreamento de hábitos e estatísticas detalhadas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
